@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 
+//This will be viewed from the Users side
+//Dev tools kicks to show specific error
 class ErrorBoundry extends Component {
     constructor(props){
         super(props);
